@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @trangn03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Trang 
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning C++, Python, Java, HTML, CSS
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me at my email: trangn0102@csu.fullerton.edu 
 
 <!---
 trangn03/trangn03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

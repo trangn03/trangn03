@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trang</h1>
 <h3 align="center">A Computer Science Student at CSUF</h3>
 
-- 🔭 I’m currently working on **some of project for beginners**
+- 🔭 I’m currently working on **projects for beginner**
 
 - 🌱 I’m currently learning **C++ and Python**
 

@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trang</h1>
 <h3 align="center">A Computer Science Student at CSUF</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trangn03" alt="trangn03" /></a> </p>
-
-- 🔭 I’m currently working on **some of project for beginners**
+- 🔭 I’m currently working on **projects for beginner**
 
 - 🌱 I’m currently learning **C++ and Python**
 

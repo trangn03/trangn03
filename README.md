@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Trang</h1>
 <h3 align="center">A Computer Science Student at CSUF</h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on Assembly Project
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **C++, x86-64 Assembly, Python**
 
 - 📫 How to reach me **trangn0102@csu.fullerton.edu**
 
